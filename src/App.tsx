@@ -1,7 +1,5 @@
 function App() {
-  return (
-    <p>letmeask</p>
-  )
+  return <p>letmeask</p>
 }
 
 export default App
